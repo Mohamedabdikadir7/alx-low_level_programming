@@ -1,0 +1,1 @@
+my strings and arrays
